@@ -257,7 +257,7 @@
 		<emf.mwe.utils.version>1.4.0</emf.mwe.utils.version>
 		<olingo.version>2.0.11</olingo.version>
 		<mockito.version>2.28.2</mockito.version>
-		<powermock-api-mockito2.version>2.0.2</powermock-api-mockito2.version>
+		<powermock-api-mockito2.version>2.0.9</powermock-api-mockito2.version>
 		<powermock-module-junit4.version>2.0.2</powermock-module-junit4.version>
 		<junit.version>4.13.1</junit.version>
 		<junitparams.version>1.1.0</junitparams.version>
